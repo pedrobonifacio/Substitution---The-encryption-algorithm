@@ -1,4 +1,4 @@
-# Substitution
+# Substitution - The encryption algorithm
 Encryption algorithm in C.
 
 Harvard CS50 course exercise.
